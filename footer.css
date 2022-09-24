@@ -58,6 +58,7 @@ a{
     background-color: white;
     border-radius: 5px;
     padding: 5px;
+    transition: ease-in-out .2s;
 }
 
 a:hover{
